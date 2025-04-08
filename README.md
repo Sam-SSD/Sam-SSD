@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row;" align="center">
-<img class="img" height="170cm" src="https://github-readme-stats.vercel.app/api?username=Sam-SSD&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-<img class="img" height="170cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-SSD&theme=radical&hide_border=true" />
+<img class="img" height="170cm" src="https://github-readme-stats-ssd-11s-projects.vercel.app/api?username=Sam-SSD&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+<img class="img" height="170cm" src="https://github-readme-streak-stats-plum-nine.vercel.app?user=Sam-SSD&theme=radical&hide_border=true" />
 </div>
 
 <picture>
